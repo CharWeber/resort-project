@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: aquamarine;
+  font-size: 20px;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+p {
+  font-style: italic;
+  font-size: 35px;
+}
+ul {
+  line-height: 150%;
+}
